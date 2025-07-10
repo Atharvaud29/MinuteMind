@@ -34,28 +34,28 @@ Built using **open-source tools** with a focus on **privacy, customizability, an
 
 ## 📂 Project Structure
 
-MinuteMind/
-├── data/
-│ ├── raw_audio/
-│ └── transcripts/
-├── src/
-│ ├── transcription/
-│ ├── preprocessing/
-│ ├── extraction/
-│ ├── storage/
-│ └── utils/
-├── frontend/
-│ ├── app.py
-│ └── components/
-├── models/
-│ ├── phi3_mini/
-│ └── whisperx/
-├── exports/
-├── requirements.txt
-├── config.yaml
-└── README.md
+        MinuteMind/
+        ├── data/
+        │ ├── raw_audio/
+        │ └── transcripts/
+        ├── src/
+        │ ├── transcription/
+        │ ├── preprocessing/
+        │ ├── extraction/
+        │ ├── storage/
+        │ └── utils/
+        ├── frontend/
+        │ ├── app.py
+        │ └── components/
+        ├── models/
+        │ ├── phi3_mini/
+        │ └── whisperx/
+        ├── exports/
+        ├── requirements.txt
+        ├── config.yaml
+        └── README.md
 
-▶️ Usage
+## ▶️ Usage
 1. Launch Streamlit Dashboard
 
 Copy code
@@ -78,7 +78,7 @@ Supported formats:
 
 - Edit or export data
 
-🧠 Models Used
+## 🧠 Models Used
 
 | Component              | Model        | Description                        |
 | ---------------------- | ------------ | ---------------------------------- |
@@ -91,7 +91,7 @@ Supported formats:
 
 - This project is open-source under the MIT License.
 
-👥 Team
+## 👥 Team
 
 - Atharv Yeole
 
@@ -103,7 +103,7 @@ Guide: Dr. Vaishali Y. Baviskar
 
 G H Raisoni College of Engineering and Management, Pune
 
-📌 References
+## 📌 References
 Based on research from:
 
 - Zhang et al. (Structure-aware Dialogue Act Classification)
